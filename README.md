@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elvish-Github
-- 👀 I’m interested in SQL
+- 👀 I’m interested in SQL,Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projects Related to Data Analytics
 - 📫 https://twitter.com/TraderElvish this is my twitter handle
